@@ -6,7 +6,7 @@ a.b:hover{opacity:1;}
 img{height:50px;width:50px;}
 video{width:400;height:400;border-radius:20px;}
 div{ visibility: hidden;}
-a.disabled {
+a.b {
   pointer-events: none;
   cursor: default;
 }
